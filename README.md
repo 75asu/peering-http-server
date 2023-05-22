@@ -1,4 +1,4 @@
-## Server Code Documentation
+## Peering HTTP Server
 
 ### Overview
 
@@ -46,5 +46,4 @@ The `watchConfigUpdates` function watches for changes in the configuration file 
 
 Make sure to replace `configFilePath` with the actual path to your configuration file before running the server.
 
-# peering-http-server
-# peering-http-server
+
